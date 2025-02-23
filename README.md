@@ -13,6 +13,9 @@ Level 1 - Task 2 : City Analysis
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Result_Level1_Task2(ss2).png>Result(ss2)</a>
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Result_level1_Task2(ss3).png>Result(ss3)</a>
 
+Level 1 - Task 3 : Price Range Distribution
+
+
 
 
 ## Technologies Used 
