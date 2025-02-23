@@ -14,7 +14,7 @@ Level 1 - Task 2 : City Analysis
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Result_level1_Task2(ss3).png>Result(ss3)</a>
 
 Level 1 - Task 3 : Price Range Distribution
-
+- <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Price_Range_Distribution_Lv1Task3_RawCode.ipynb>Dataset_RawCode_Task3</a>
 
 
 
