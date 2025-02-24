@@ -22,6 +22,7 @@ Level 1 - Task 3 : Price Range Distribution
 Level 1 - Task 4 : Online _delivery_Analysis
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Online_delivery_analysis_Lv1Task4.ipynb>DataSet_RawCode_Task4</a>
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Online_Delivery_Analysis.csv>Online_Delivery_Analysis</a>
+- <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Result_lv1_tsk4(1).png>Result:1</a>
 
 
 
