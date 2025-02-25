@@ -33,6 +33,7 @@ Level 3 - Task 1 : Restaurant_Reviews
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Restaurant%20Reviews_lev3_Task1.ipynb>Code</a>
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Common_Ratings_lv3task1.csv>Common_Ratings</a>
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Rating_Distribution_Lv3_tsk1.pdf>Rating_Distribution_chart</a>
+- <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Votes_Rating_Correlation.txt>Votes_Rating_Correlation.txt</a>
 
 Level 3 - Task 2 : Votes_Analysis
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Cleaned_restaurant_data_lv3_Task2.csv>Cleaned_Restaurant_Data</a>
