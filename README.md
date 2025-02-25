@@ -30,6 +30,7 @@ Level 1 - Task 4 : Online _delivery_Analysis
 Level 3 - Task 2 : Votes_Analysis
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Cleaned_restaurant_data_lv3_Task2.csv>Cleaned_Restaurant_Data</a>
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Votes_Analsis_lv3_Task2.ipynb>Code</a>
+- <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Combined_plots_lv3_tsk2.png>Combined_plots</a>
 
 
 
