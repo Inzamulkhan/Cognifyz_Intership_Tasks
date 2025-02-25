@@ -37,6 +37,7 @@ Level 3 - Task 2 : Votes_Analysis
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/scatter_plot_lv3_tsk2.png>Scatter_plot</a>
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/rating_by_vote_category_lv3_Task2.png>rating_by_vote_category</a>
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/top_5_restaurants_lv3_Task2.csv>Top_5_Restaurants</a>
+- <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/bottom_5_restaurants_lv3_Task2.csv>Bottom_5_Restaurants</a>
 
 
 
