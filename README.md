@@ -33,6 +33,7 @@ Level 3 - Task 2 : Votes_Analysis
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Combined_plots_lv3_tsk2.png>Combined_plots</a>
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Correlation_Analysis_lv3_tsk2.csv>Correlation_Analysis</a>
 - <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/Histogram_lv3_tsk2.png>Histogram</a>
+- <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/blob/main/descriptive_statistics_lv3_tsk2.csv>Descriptive_Statistics</a>
 
 
 
