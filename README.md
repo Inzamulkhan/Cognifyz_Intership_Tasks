@@ -2,11 +2,11 @@
 This respository contains all tasks completed for the Cognifyz Data Analysis Intership.
 ## Tasks Included
 Level 1 - Task 1 : Top Cuisine Analysis
-- <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/tree/main/Cognify_Lv1_Task2>Task 1 </a>
+- <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/tree/main/Cognify_lv1_Task1>Task 1 </a>
 
 
 Level 1 - Task 2 : City Analysis
-- <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/tree/main/Cognify_Lv1_Task2>Task 1 </a>
+- <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/tree/main/Cognify_Lv1_Task2>Task 2 </a>
 
 
 
