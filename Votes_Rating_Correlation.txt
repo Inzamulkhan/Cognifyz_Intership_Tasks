@@ -1,1 +1,0 @@
-Correlation between votes and ratings: 0.31
