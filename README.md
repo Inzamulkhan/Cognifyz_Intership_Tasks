@@ -6,6 +6,8 @@ Level 1 - Task 1 : Top Cuisine Analysis
 
 
 Level 1 - Task 2 : City Analysis
+- <a href=https://github.com/Inzamulkhan/Cognifyz_Intership_Tasks/tree/main/Cognify_Lv1_Task2>Task 1 </a>
+
 
 
 Level 1 - Task 3 : Price Range Distribution
